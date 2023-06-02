@@ -17,7 +17,7 @@ The Personnal Data Generator is a tool designed to generate realistic personal d
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/personal-data-generator.git`
+1. Clone the repository: `git clone https://github.com/lodavid38600/personal-data-generator.git`
 2. Open index.html
 
 ## Contributing
