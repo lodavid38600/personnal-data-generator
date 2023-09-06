@@ -40,4 +40,4 @@ If you have any questions or suggestions about this project, please feel free to
 
 ---
 
-*This project was developed during the Nuit de l'Info 2022 in Grenoble with the collaboration of Louis DAVID.*
+
